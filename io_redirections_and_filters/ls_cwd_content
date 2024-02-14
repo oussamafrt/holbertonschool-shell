@@ -1,2 +1,14 @@
-#!/bin/bash
-(ls -la)
+total 52
+drwxr-xr-x 2 root root 4096 Feb 14 22:59 .
+drwxr-xr-x 6 root root 4096 Feb 14 20:47 ..
+-rwxr-xr-x 1 root root   30 Feb 14 20:47 0-hello_world
+-rwxr-xr-x 1 root root   30 Feb 14 20:47 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Feb 14 20:47 2-hellofile
+-rwxr-xr-x 1 root root   39 Feb 14 20:47 3-twofiles
+-rwxr-xr-x 1 root root   29 Feb 14 20:47 4-lastlines
+-rwxr-xr-x 1 root root   29 Feb 14 20:47 5-firstlines
+-rwxr-xr-x 1 root root   40 Feb 14 20:47 6-third_line
+-rwxr-xr-x 1 root root   91 Feb 14 20:47 7-file
+-rwxr--r-- 1 root root   48 Feb 14 22:59 8-cwd_state
+-rw-r--r-- 1 root root   18 Feb 14 20:47 README.md
+-rwxr--r-- 1 root root   12 Feb 14 22:59 ls_cwd_content
