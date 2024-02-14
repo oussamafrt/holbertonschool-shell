@@ -1,0 +1,2 @@
+#!/bin/bash
+ls_output=$(ls -la)
