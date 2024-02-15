@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1t <
+list_1 | sort --ignore-case | uniq -u
