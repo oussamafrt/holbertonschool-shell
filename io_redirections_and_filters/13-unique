@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list_1 | sort --ignore-case | uniq -u > cat list_2 | ./13-unique
+cat list_1 | sort --ignore-case | uniq -u | ./13-unique
