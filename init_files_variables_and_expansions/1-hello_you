@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello user | export USER=MyUser
+user=$(whoami) echo "hello $user"
